@@ -1,4 +1,7 @@
-https://github.com/jvandenaardweg/linkedin-profile-scraper
+# A decent json format type for storing linkedin member data
+# https://github.com/jvandenaardweg/linkedin-profile-scraper
+# To-do: imrpove the jupyternotebook and use chrome driver addcookie()
+#  https://github.com/laxmimerit/LinkedIn-Profile-Scrapper-in-Python
 
 {
   "userProfile": {
